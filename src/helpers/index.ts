@@ -1,0 +1,1 @@
+export { getUserLocations } from "./getUserLocation";
